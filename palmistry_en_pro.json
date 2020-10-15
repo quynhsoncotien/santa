@@ -1,0 +1,332 @@
+[
+  {
+    "questions": [
+      {
+        "title": "Choose life line type", 
+        "answers": [
+          {
+            "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/l4.png",
+            "result": "A swooping semicircular life line around the base of the thumb shows that you are full of vigor and energy. A long, deep, tender and rosy life line stands for that you are highly resistant to disease. On the contrary, the short life line shows you are susceptible to illness. A thick and clear life line indicates that you are suited to a life of physical labor and are good at sports. Conversely, a shallow and vague line shows that you are good at using mind."
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/l5.png",
+            "result": "A cramped life line that sticks close to the thumb straightly, it predicts that you have limited energy and are easy to get tired. A long, deep, tender and rosy life line stands for that you are highly resistant to disease. On the contrary, the short life line shows you are susceptible to illness. A thick and clear life line indicates that you are suited to a life of physical labor and are good at sports. Conversely, a shallow and vague line shows that you are good at using mind."
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/l6.png",
+            "result": "A secondary line running parallel with the life line, it shows you have a very strong vitality. Especially, you have a strong resistance to disease and self recovery ability after illness. A long, deep, tender and rosy life line stands for that you are highly resistant to disease. On the contrary, the short life line shows you are susceptible to illness. A thick and clear life line indicates that you are suited to a life of physical labor and are good at sports. Conversely, a shallow and vague line shows that you are good at using mind."
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/lNo.png",
+            "result": "If other lines of your palm are clear and only the life line is absent, it's not a good sign. It indicates a poor health and a short life. You are easy to get sick or have accidents during the whole life."
+          }
+        ]
+      }, 
+      {
+        "title": "Choose broken type", 
+        "answers": [
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/l1.png",
+            "result": "The two broken parts overlap, you could recover although getting a serious illness. The overlapping length shows the recovery time. A broken life line represents an unexpected accident, danger, disaster or illness during the life. The greater the interval is, the longer the illness will last. \n"
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/l2.png",
+            "result": "A short line parallel with the broken life line, either above or below the life line. A broken life line represents an unexpected accident, danger, disaster or illness during the life. The greater the interval is, the longer the illness will last. "
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/l3.png",
+            "result": "A square connecting the two parts, you usually can turn danger into safety and fully recover although suffer serious disease. A broken life line represents an unexpected accident, danger, disaster or illness during the life. The greater the interval is, the longer the illness will last. "
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/lNo.png",
+            "result": "If there is nobroken life line represents there will be less unexpected accident, danger, disaster or illness during the life."
+          }
+        ]
+      }, 
+      {
+        "title": "Choose branch type", 
+        "answers": [
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/l7.png",
+            "result": "An upward branch above the life line, it shows you are diligent, optimistic, positive and have a strong thirst for knowledge. You could get a fame and prestige during the life."
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/l8.png",
+            "result": "Many upward branches, it shows you are ambitious and have lofty ideals. But too many such lines show you are a dreamer and end up nowhere because you couldn’t keep feet on the ground."
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/l9.png",
+
+            "result": "Many downward branches at the end of life line, it indicates your physical condition is declining. Also, you may always feel tired and lonely."
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/l10.png",
+
+            "result": "Diagonals crossing the end of life line, it means you will be suffered from disease during the later year."
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/l11.png",
+
+            "result": "A clear branch downward split from the middle part of life line means you are easy to separate with your families and live apart."
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/l12.png",
+
+            "result": "For the life line ends in a fork, it means you are busy and stateless during the middle and late year. If you choose to develop your career outside, you can make some achievement."
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/l13.png",
+
+            "result": "Tassels at the starting of the life line indicates a lonely life during the old age because there are no children around."
+          }
+        ]
+      }
+    ], 
+    "type": 1
+  }, 
+  {
+    "questions": [
+      {
+        "title": "Choose heart line type", 
+        "answers": [
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/e1.png",
+
+            "result": "Your heart line is short (only extends to the middle finger) or absent, it shows you are self-centered, ruthless, narrow-minded and like to act arbitrarily without thinking about the consequences. Thus, you are easy to be ostracized by the people around and become lonely. For your love life, it’s also not smooth."
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/e2.png",
+
+            "result": "Your heart line is very long which extends to the edge of the palm from both side (as in the picture shows), it indicates you are too straightforward, would rather break than bend. In career, you could get success although you undergo a lot of hardships. Only if your career line is clear without broken, you are fit to engage in speculation. In love aspect, the man is usually romantic and henpecked. The women are mostly faithful to their love. However, you usually have some major upheavals during the life. Once split up with boy/girl friend, or marriage breaks down, you will get hurt seriously."
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/e3.png",
+
+            "result": "Your heart line extends to the Mount of Jupiter which is located below the forefinger. It indicates abundance of love, great dreams and high expectations."
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/e4.png",
+
+            "result": "Your heart line ends below where the Mount of Jupiter (below the forefinger) joins the Mount of Saturn (below the middle finger), it indicates the purely true love."
+          }
+        ]
+      }, 
+      {
+        "title": "Choose curve type", 
+        "answers": [
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/e5.png",
+
+            "result": "Your heart line curves upwards, it indicates you have a great verbal dexterity. When meeting your favorite object, you are good at creating romantic atmosphere and speaking out your love to him/her"
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/e6.png",
+
+            "result": "Owning a downward curved line, it indicates a negative and weak character. You usually give others an uneasy feeling because you don't dare to chase and express your love feelings. So, there are twists and turns with your love relationship or marriage life."
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/e7.png",
+
+            "result": "A straight heart line shows you are stable, conservative, mild, extremely affable and approachable. In love, you are usually shy and play a passive role in the relationship. If the line is clear, moderate in length and without donut of break, you could have a stable and harmonious family."
+          }
+        ]
+      }, 
+      {
+        "title": "Choose branch type", 
+        "answers": [
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/e8.png",
+
+            "result": "Your heart line splits at the end and curves downwards, it indicates willingness to sacrifice everything for love."
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/e9.png",
+
+            "result": "Trident at the end of the line indicates universal fraternity. But in love life, you are usually hard."
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/e10.png",
+
+            "result": "There are many branches at the end, its shows you are constant in love at the same time could get real love."
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/e11.png",
+
+            "result": "Many upward splits on the line are good signs for love life."
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/e12.png",
+
+            "result": "There are many downward splits, your marriage is easy to break up."
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/e13.png",
+
+            "result": "Two or three upward branches near the beginning of the line shows abundance of love and great charm to opposite sex."
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/e14.png",
+
+            "result": "The line is double forked at the beginning of the heart line, it indicates disputes on marriage."
+          }
+        ]
+      }
+    ], 
+    "type": 2
+  }, 
+  {
+    "questions": [
+      {
+        "title": "Choose marriage line type", 
+        "answers": [
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/m1.png",
+
+            "result": "A straight long marriage line indicates deep and long love. It shows you are passionate, gentle and usually have a happy family. If you only have one marriage line which is deep and long, close to or touch the Sun line, it shows you could not only enjoy a happy marriage but also achieve great success in career after marriage."
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/m2.png",
+
+            "result": "Your marriage line is short, it indicates passionless to the opposite sex. If it's also shallow, you usually lack the patience to pursue the opposite sex and hard to fall deep when fall in love. In most times, if you own this kind of line, you are likely to get married lately."
+          }
+        ]
+      }, 
+      {
+        "title": "Choose curve type", 
+        "answers": [
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/m3.png",
+
+            "result": "Your marriage line goes downwards at the end, it's not a good sign. It predicts your partner will die earlier than you. If it curves downwards suddenly, your partner may suffer from accidental death. Another situation is that it curves downwards and touches the heart line. This indicates marriage crises and personality clashes with your partner. So, a separation or divorce may be happened."
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/m4.png",
+
+            "result": "If the line curves upwards at the end, it indicates constant in love and a settled marriage life. You usually don't have worries about your finance and can lead a rich life with your partner. Also, you could coordinate each other well thus enjoy a happy marriage. The more risen your marriage line, the happier you are. "
+          }
+        ]
+      }, 
+      {
+        "title": "Choose branch type", 
+        "answers": [
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/m5.png",
+
+            "result": "The line is forked at the beginning with a shape of \"Y\", it's not a good sign. It indicates split-up or divorce. If the fork is not big, the situation is not so bad as it only stands for breaking up for some period of time. So, to some extent, it also means re-union after separation."
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/m6.png",
+
+            "result": "The line has split ends, it indicates marriage crises and separation. You may spend the whole life in confusion. You may also suffer from indigestion. In addition, fortune for your career is usually not satisfied before 55 years old.  "
+          }
+        ]
+      }
+    ], 
+    "type": 3
+  }, 
+  {
+    "questions": [
+      {
+        "title": "Choose head line type", 
+        "answers": [
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/h1.png",
+
+            "result": "The line extends and ends under the small finger, it's regarded as a long line. If you have such a line, it shows that you have a very clear mind. You are responsive, good at thinking and more considerate than others. At the same time, you are easy to think too much and get into a blind alley."
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/h2.png",
+
+            "result": "Your head line extends to the ring finger, it is of medium length. Most of the people belong to this kind. You are also smart and brilliant. Sometimes, you even have a higher ability of doing things than those with a long head line."
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/h3.png",
+
+            "result": "A small part of the person has a short head line which only extends under the middle finger. If you belong to this kind, you are usually slow to respond, hasty, careless, indecisive and impulsive. However, your advantage is that you could finish the assigned task in a systematic way."
+          }
+        ]
+      }, 
+      {
+        "title": "Choose curve type", 
+        "answers": [
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/h4.png",
+
+            "result": "Your head line is straight, it predicts that you have a strong analytic ability, practical, and dedicated. You were usually a born ideologist and could perform well in mathematics, commerce, science and technology fields."
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/h5.png",
+
+            "result": "You are gentle, tolerant, realistic and have a strong interpersonal skills with a curved head line. In fields like mass media, PR, literature, social sciences, psychology etc. you can show off your talents completely."
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/h6.png",
+
+            "result": "You are fertile of imagination and have a high creation ability and artistic talent. You are fit to those creative jobs like to be a painter, writer or poet. Also, you are easy to be influenced by emotion. For example, to spend a lot of money when in a bad mood."
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/h7.png",
+
+            "result": "Your head line crosses the heart line straightly to the end of the little finger, you usually have too much common sense and love for arts. However, your life will be full of ups and downs. "
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/h8.png",
+
+            "result": "The end part curves, it shows you are sympathetic, rich in imagination and romantic. But you are easy to suffer from chronic diseases like hypertension and diabetes. "
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/h9.png",
+
+            "result": "You head line goes closely to the heart line at the end, you are usually confident and are good at personal relationship. So, you could overcome difficulties with the help of friends and achieve great success in career. "
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/h10.png",
+
+            "result": "Your head line and life line are joined at the beginning and soon split, it indicates a decisive character with flexibility."
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/h11.png",
+
+            "result": "The head line and life line overlap for some distance from the beginning before the split, it indicates an introverted, prudent, and thoughtful character. The longer the overlap is, the more worried, careful and indecisive you are."
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/h12.png",
+
+            "result": "Your head line is separated from the life line, it shows that you have a bold and extrovert character. The men with such lines are easy to be successful in career and women are easy to become a dragon lady. In personality, you are highly independent. No matter how difficult the situation is, you can solve the problem by yourself. Also, you have tons of self-respect, at the same time a strong sense of inferiority. However, you are not sympathetic, like to control your love, and don’t accept other’s mistake. So, your love life is usually not smooth. "
+          }
+        ]
+      }, 
+      {
+        "title": "Choose branch type", 
+        "answers": [
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/h13.png",
+
+            "result": "Your head line has an upcurved branch at the end, it indicates you have a strong adaptability, good social ability, and outstanding business gift. In business field, you could make a great success."
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/h14.png",
+
+            "result": "The line has an upcurved branch extending to beneath of the ring finger, it indicates great talents. If you make your career in art, you could stand out among others."
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/h15.png",
+
+            "result": "For a branch extending to the location between the forefinger and the middle finger, it means you are clever enough but unrealistic to aim to high. Because of this, you are easy to stir up troubles."
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/h16.png",
+
+            "result": "The branch extending to the Mount of Jupiter which is below the forefinger shows you love fame wealth and power. Also, you like to dominate others. In character, you are bouncy and full of energy to march forward courageously."
+          }, 
+          {
+              "image": "https://raw.githubusercontent.com/masterprohd/data/master/imagepro/h17.png",
+
+            "result": "Tassels at the end of head line hints that you may suffer dizziness and headache caused by low blood pressure or pressure on the nerves by proliferation of cervical bone. In addition, you may suffer cardianeuria as you have a weak heart. Therefore, more exercises are needed to guard against the disease."
+          }
+        ]
+      }
+    ], 
+    "type": 4
+  }
+]
